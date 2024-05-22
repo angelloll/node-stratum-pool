@@ -2,7 +2,7 @@
 
 --------
 
-
+v
 High performance Stratum poolserver in Node.js. One instance of this software can startup and manage multiple coin
 pools, each with their own daemon and stratum port :)
 
